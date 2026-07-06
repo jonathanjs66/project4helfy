@@ -1,0 +1,8 @@
+# ignore node dependencies
+node_modules/
+
+# ignore log files
+all-logs.log
+
+# ignore environment variables
+# .env ,Note: in a real environment i would never upload .env file, but in this case becuase it is an exercise im adding it
